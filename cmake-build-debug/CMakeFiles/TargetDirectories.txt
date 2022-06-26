@@ -1,0 +1,3 @@
+B:/Projects/C++/Labs/pprog/restaurant/cmake-build-debug/CMakeFiles/restaurant.dir
+B:/Projects/C++/Labs/pprog/restaurant/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/Projects/C++/Labs/pprog/restaurant/cmake-build-debug/CMakeFiles/rebuild_cache.dir

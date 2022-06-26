@@ -1,0 +1,29 @@
+                  Dania Glowne             
+1. Noga z Kaczki                      25.99
+2. Losos z Kawiorem                   35.99
+3. Kalafior w 4 odslonach             21.99
+4. Moussaka                           32.99
+                                           
+                   Przystawki              
+5. Salata Cezar                       19.99
+6. Tabbouleh                          23.99
+                                           
+                    Desery                 
+7. Brownie z Malinami                 11.99
+8. Jablecznik                         10.99
+9. Sernik smietankowy                 12.99
+                                           
+                  Napoje Zimne             
+10. Napoj gazowany (Cola, Pepsi, 7up) 09.99
+11. Woda Gaz.                         06.99
+12. Woda Niegaz.                      06.99
+13. Sok (Pomarancza, Grapefruit)      12.99
+                                           
+                  Napoje Gorace            
+14. Kawa Czarna                       10.99
+15. Kawa z Mlekiem                    12.99
+16. Espresso                          07.99
+17. Herbata                           10.99
+18. Goraca Czekolada                  07.99
+19. Matcha                            11.99
+                                           

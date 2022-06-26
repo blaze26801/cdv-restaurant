@@ -1,0 +1,4 @@
+"B:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" B:\Projects\C++\Labs\pprog\restaurant
+-- Configuring done
+-- Generating done
+-- Build files have been written to: B:/Projects/C++/Labs/pprog/restaurant/cmake-build-debug
